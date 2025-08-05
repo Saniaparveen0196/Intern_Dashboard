@@ -40,4 +40,15 @@ Templating	Jinja2 for dynamic content rendering
 ![login page](https://github.com/user-attachments/assets/c6eccab6-6635-4208-9e57-d0cd4648ea16)
 
 
+![profile](https://github.com/user-attachments/assets/adba1e9c-0c13-4106-92d5-e2c329e28829)  
+
+
+![dashboard](https://github.com/user-attachments/assets/0dabeea0-9c54-4d36-89a4-50bf7dba284a)  
+
+
+![leaderboard](https://github.com/user-attachments/assets/98a61a90-de07-4b81-8e8b-c662b106e6f3)
+
+
+
+
 
