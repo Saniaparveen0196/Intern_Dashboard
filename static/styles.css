@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+    background-color: #f2f2f2;
+}
+
+form input, form button {
+    padding: 10px;
+    margin: 10px;
+}
+
+form {
+    display: inline-block;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    color: blue;
+    text-decoration: none;
+}
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
