@@ -1,35 +1,35 @@
-#Intern Fundraising Dashboard
+Intern Fundraising Dashboard
+📌 Description
+This web application is designed for interns to track and manage their fundraising efforts for charitable causes. It provides transparency, motivation, and gamification to encourage greater participation.
 
-Description:
-This project is a web application designed for interns to track their fundraising efforts for charitable causes. The system features:
-
-User Authentication: Login and signup functionality for interns
+✨ Key Features
+User Authentication: Signup and login functionality for interns
 
 Dashboard: Personalized view showing key metrics like referral code and total donations
 
-Profile Management: View and manage personal information
+Profile Management: View and update personal information
 
-Leaderboard: Competitive ranking of top fundraisers
+Leaderboard: Displays a ranking of top fundraisers
 
-Rewards System: Badges earned based on fundraising milestones
+Rewards System: Earn badges based on donation milestones (Bronze, Silver, Gold)
 
-The application helps motivate interns to raise more funds through gamification elements like badges and leaderboards while providing transparency into their fundraising progress.
+This platform motivates interns to raise more funds through gamification elements like badges and leaderboards.
 
-Tech Stack
-Frontend
-HTML5: Structure of web pages
+🧱 Tech Stack
+Layer	Technology Used
+Frontend	HTML5, CSS3, Bootstrap 5, Font Awesome, Jinja2
+Backend	Python, Flask
+Templating	Jinja2 for dynamic content rendering
 
-CSS3: Styling and responsive design
+🖥️ Pages Included
+/signup – New user registration
 
-Bootstrap 5: Frontend framework for responsive layouts and components
+/ – Login page
 
-Font Awesome: Icons for better UI
+/dashboard – Intern's personal dashboard
 
-Jinja2 Templating: Dynamic content rendering (used with Flask)
+/profile – View and edit personal details
 
-Backend
-Python: Primary programming language
+/leaderboard – View top fundraisers leaderboard
 
-Flask: Lightweight web framework
 
-JSON: Data storage and exchange format
