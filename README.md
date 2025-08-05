@@ -37,4 +37,7 @@ Templating	Jinja2 for dynamic content rendering
 
 /leaderboard – View top fundraisers leaderboard
 
+![login page](https://github.com/user-attachments/assets/c6eccab6-6635-4208-9e57-d0cd4648ea16)
+
+
 
