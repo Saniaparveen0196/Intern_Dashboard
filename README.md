@@ -1,4 +1,4 @@
-Intern Fundraising Dashboard
+#Intern Fundraising Dashboard
 
 Description:
 This project is a web application designed for interns to track their fundraising efforts for charitable causes. The system features:
